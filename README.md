@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Om Dutt Pandey!  
-![Profile Banner](https://via.placeholder.com/1000x200.png?text=Welcome+to+Om+Dutt+Pandey's+GitHub)
+![Profile Banner](https://raw.githubusercontent.com/ompandey21/ompandey21/main/github-header-image.png)
 
 I'm a **sophomore** pursuing a Bachelor of Technology in **Artificial Intelligence, Machine Learning, and the Internet of Things** at **GLA University, Mathura**. I am passionate about creating impactful applications, exploring new technologies, and solving real-world problems through innovation.
 
