@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Om Dutt Pandey!
+# 👋 Hi there, I'm Om!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Data+Science+Explorer;Hackathon+Winner" alt="Typing SVG" />
