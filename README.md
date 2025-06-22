@@ -71,9 +71,9 @@ I'm a **sophomore** pursuing a Bachelor of Technology in **Artificial Intelligen
 
 | 🏅 Achievement | 🏛️ Organization | 📅 Year |
 |:-------------:|:---------------:|:--------:|
-| 🥇 **Winner** - *Hack-N-Win 2.0* | Chandigarh Group of Colleges, Jhanjeri | 2024 |
-| 🥇 **Winner** - *Ideathon* | GLA University | 2024 |
-| 🎯 **Top 30 Finalist** - *Smart India Hackathon (SIH)* | Internal Round | 2024 |
+| 🥇 **Winner** - *Hack-N-Win 2.0* | Chandigarh Group of Colleges, Jhanjeri | 2025 |
+| 🥇 **Winner** - *Ideathon* | GLA University | 2025 |
+| 🎯 **Finalist** - *Smart India Hackathon (SIH)* | GLA University | 2024 |
 
 </div>
 
