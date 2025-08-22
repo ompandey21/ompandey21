@@ -13,13 +13,13 @@
 
 ## 🎓 About Me
 
-I'm a **sophomore** pursuing a Bachelor of Technology in **Artificial Intelligence, Machine Learning, and the Internet of Things** at **GLA University, Mathura**. I'm passionate about creating impactful solutions that bridge the gap between cutting-edge technology and real-world applications.
+I'm a **pre final year student** pursuing a Bachelor of Technology in **Artificial Intelligence, Machine Learning, and the Internet of Things** at **GLA University, Mathura**. I'm passionate about creating impactful solutions that bridge the gap between cutting-edge technology and real-world applications.
 
-- 🔭 Currently working on **AI-powered fashion recommendations** and **3D visualization projects**
-- 🌱 Learning **Advanced Deep Learning**, **Computer Vision**, and **Cloud Computing**
+- 🔭 Currently working on **AI powered career insights** and **Hackathon Evaluation projects**
+- 🌱 Learning **Advanced Deep Learning**, **NLP**, and **DevOps**
 - 👯 Looking to collaborate on **Open Source AI/ML projects**
-- 💬 Ask me about **Python, Machine Learning, Android Development, and Data Science**
-- ⚡ Fun fact: I love combining **generative AI** with creative design to revolutionize fashion tech!
+- 💬 Ask me about **Python, Machine Learning, Web Development, and Data Science**
+- ⚡ Fun fact: I love exploring real life problems and trying to solve them...so please connect if you have a problem that we can solve together.
 
 ---
 
@@ -31,8 +31,6 @@ I'm a **sophomore** pursuing a Bachelor of Technology in **Artificial Intelligen
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
 ### **AI/ML & Data Science**
@@ -79,100 +77,12 @@ I'm a **sophomore** pursuing a Bachelor of Technology in **Artificial Intelligen
 
 ---
 
+
 ## 🚀 Featured Projects
 
 <div align="center">
-  
-### 🎨 [Fusion Threads](https://github.com/ompandey21/Fusion-Threads)
-**AI-Powered Fashion Recommendation & 3D Visualization Platform**
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" alt="Blender"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-4285F4?style=flat-square" alt="Computer Vision"/>
-
-*Developed a 3D AI-powered virtual try-on application that recommends personalized clothing styles and generates realistic 3D visualizations based on user features and preferences.*
-
-**Key Features:**
-- 🧠 Personalized outfit recommendations using machine learning
-- 🎭 3D model generation with various outfit combinations
-- 🎨 Intuitive UI/UX with real-time visualization
-- 📊 Style analytics and trend prediction
-
----
-
-### 📊 [Gameflix Promotional Analysis](https://github.com/ompandey21/Gameflix-Analysis)
-**Data-Driven OTT Platform Performance Analytics**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-FF6B6B?style=flat-square" alt="Data Analytics"/>
-
-*Comprehensive analysis of promotional strategies effectiveness for an OTT platform, providing actionable insights for business growth.*
-
-**Key Features:**
-- 📈 User engagement trend analysis
-- 📊 Interactive performance metrics dashboard
-- 🎯 ROI optimization recommendations
-- 📋 Automated reporting system
-
----
-
-### 🛡️ [Women Safety Analytics](https://github.com/ompandey21/Women-Safety-Analytics)
-**Real-Time Safety Monitoring & Analytics Platform**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Real--Time%20Analytics-4CAF50?style=flat-square" alt="Real-Time Analytics"/>
-
-*Developed an advanced analytics platform focused on improving women's safety through data-driven insights and real-time monitoring systems.*
-
-**Key Features:**
-- 🚨 Real-time threat detection and alert systems
-- 📊 Safety analytics and reporting dashboard
-- 🗺️ Geospatial analysis of safety patterns
-- 📱 Mobile-first responsive design
-
----
-
-### 💧 [Animated Water Dashboard](https://github.com/ompandey21/Water-Dashboard)
-**Interactive Environmental Data Visualization**
-
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
-<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
-
-*Built an interactive and visually stunning dashboard for water resource management with smooth animations and real-time data visualization.*
-
-**Key Features:**
-- 🌊 Fluid animations and smooth transitions
-- 📊 Real-time environmental data visualization
-- 📱 Modern material design principles
-- ⚡ Optimized performance and responsiveness
-
----
-
-### 🤖 [SAGE – Smart Advanced Gesture-Controlled Environment](https://github.com/ompandey21/SAGE)
-**Futuristic Touchless Control System**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-FF6B6B?style=flat-square" alt="Computer Vision"/>
-
-*Developed a revolutionary gesture-controlled smart environment inspired by Spiderman's intuitive control style, enabling touchless interaction with electronic devices through advanced computer vision.*
-
-**Key Features:**
-- 🖐️ Real-time gesture recognition using OpenCV
-- 🔐 Webcam-based OTP security system for authentication
-- 🎯 Custom gesture-to-action mapping (lights, fans, appliances)
-- 🏠 Designed for smart homes, healthcare, and public spaces
-- 🔧 Compact hardware interface with Raspberry Pi
-
----
-
-### 🏗️ [ArchiTech – AI-Powered Floor Plan Generator](https://github.com/ompandey21/ArchiTech)
+### 🏗️ [ArchiTech – AI-Powered Floor Plan Generator](https://github.com/ompandey21/ArchiTech)  
 **Generative AI-Based Architectural Design Platform | 🏆 National Hackathon Winner**
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
@@ -183,11 +93,96 @@ I'm a **sophomore** pursuing a Bachelor of Technology in **Artificial Intelligen
 *Revolutionary AI-powered web platform that democratizes architecture by generating detailed floor plans using Generative AI based on user preferences and land dimensions.*
 
 **Key Features:**
-- 🏡 AI-generated floor plans using DALL·E/Stable Diffusion models
-- 📐 Custom input system for land dimensions and house types
-- 🎨 Clean, responsive UI with modern design principles
-- 📋 Plan customization, viewing, and download capabilities
-- 🚀 Fast and affordable architectural planning solution
+- 🏡 AI-generated floor plans using DALL·E/Stable Diffusion models  
+- 📐 Custom input system for land dimensions and house types  
+- 🎨 Clean, responsive UI with modern design principles  
+- 📋 Plan customization, viewing, and download capabilities  
+- 🚀 Fast and affordable architectural planning solution  
+
+---
+
+### 🛡️ [RakshakApp – Women Safety App](https://github.com/ompandey21/RakshakApp)  
+**Real-Time Safety & Emergency Alert Android App**
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+
+*An Android application focused on women’s safety with instant alerts and real-time location tracking.*  
+
+**Key Features:**
+- 🚨 One-tap SOS emergency alerts  
+- 📍 Live GPS tracking & sharing with contacts  
+- 📊 Safety analytics dashboard  
+- 📱 Simple and secure mobile-first design  
+
+---
+
+### ✈️ [AirCraft Fuel Prediction App](https://github.com/ompandey21/AirCraft_Fuel_Prediction_App)  
+**Machine Learning for Aviation Efficiency**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=machine-learning&logoColor=white" alt="Machine Learning"/>
+
+*Predicts aircraft fuel consumption using ML models to optimize costs and improve efficiency.*  
+
+**Key Features:**
+- 🛫 Predictive fuel modeling  
+- 📊 Regression-based ML algorithms  
+- ⚡ Fast, optimized performance  
+- 📈 Cost-saving aviation insights  
+
+---
+
+### 📈 [Portfolio Return Predictor](https://github.com/ompandey21/Portfolio_return_predictor_app)  
+**Finance + Machine Learning for Smarter Investments**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Finance-4CAF50?style=flat-square" alt="Finance"/>
+
+*An intelligent ML-powered tool that predicts portfolio returns and optimizes investment strategies.*  
+
+**Key Features:**
+- 💹 Historical data-driven return prediction  
+- 📊 Data visualization of portfolio performance  
+- 🎯 Risk-adjusted strategy recommendations  
+- 🔍 Interactive analytics dashboard  
+
+---
+
+### ⚖️ [QuickCourt Prevision](https://github.com/Sidrajagrawal/QuickCourt_Prevision)  
+**Legal-Tech Platform for Case Outcome Prediction**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/NLP-008080?style=flat-square" alt="NLP"/>
+
+*An AI/ML-powered tool designed to predict legal case outcomes and assist lawyers with data-driven decisions.*  
+
+**Key Features:**
+- ⚖️ Case data preprocessing & NLP pipelines  
+- 🤖 Predictive model for case outcomes  
+- 📊 Legal insights & visualization dashboard  
+- 🔍 Smart search with context-aware results  
+
+---
+
+### 🤝 [Skill-Swap Platform](https://github.com/Saksham-Gupta0531/Skill-Swap-Platform)  
+**Peer-to-Peer Learning & Collaboration Platform**
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/EdTech-4285F4?style=flat-square" alt="EdTech"/>
+
+*A collaborative platform where users can swap skills, connect with peers, and engage in knowledge exchange.*  
+
+**Key Features:**
+- 🔗 Peer-to-peer skill exchange system  
+- 🗂️ User profiles with skill tagging  
+- 📊 Skill demand/offer analytics  
+- 🌐 Community-driven collaboration hub  
 
 </div>
 
