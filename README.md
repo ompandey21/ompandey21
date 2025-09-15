@@ -46,7 +46,8 @@ I'm a **pre final year student** pursuing a Bachelor of Technology in **Artifici
 ### **Web & Mobile Development**
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
   <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge" alt="REST API"/>
@@ -59,7 +60,10 @@ I'm a **pre final year student** pursuing a Bachelor of Technology in **Artifici
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
+
 
 ---
 
@@ -82,7 +86,7 @@ I'm a **pre final year student** pursuing a Bachelor of Technology in **Artifici
 
 <div align="center">
 
-### 🏗️ [ArchiTech – AI-Powered Floor Plan Generator](https://github.com/ompandey21/ArchiTech)  
+### 🏗️ [ArchiTech – AI-Powered Floor Plan Generator](https://github.com/Sidrajagrawal/ArchiTech)  
 **Generative AI-Based Architectural Design Platform | 🏆 National Hackathon Winner**
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
