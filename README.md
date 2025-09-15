@@ -18,7 +18,7 @@ I'm a **pre final year student** pursuing a Bachelor of Technology in **Artifici
 - 🔭 Currently working on **AI powered career insights** and **Hackathon Evaluation projects**
 - 🌱 Learning **Advanced Deep Learning**, **NLP**, and **DevOps**
 - 👯 Looking to collaborate on **Open Source AI/ML projects**
-- 💬 Ask me about **Python, Machine Learning, Web Development, and Data Science**
+- 💬 Ask me about **DSA, JAVA, Python, Machine Learning, Web Development, and Data Science**
 - ⚡ Fun fact: I love exploring real life problems and trying to solve them...so please connect if you have a problem that we can solve together.
 
 ---
