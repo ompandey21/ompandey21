@@ -74,8 +74,9 @@ I'm a **pre final year student** pursuing a Bachelor of Technology in **Artifici
 | 🏅 Achievement | 🏛️ Organization | 📅 Year |
 |:-------------:|:---------------:|:--------:|
 | 🥇 **Winner** - *Hack-N-Win 2.0* | Chandigarh Group of Colleges, Jhanjeri | 2025 |
-| 🥇 **Winner** - *Ideathon* | GLA University | 2025 |
-| 🎯 **Finalist** - *Smart India Hackathon (SIH)* | GLA University | 2024 |
+| 🥇 **Winner** - *Hackcentrix* | GLA University, Mathura | 2026 |
+| 🥇 **Winner** - *Ideathon* | GLA University, Mathura | 2025 |
+| 🎯 **Finalist** - *Smart India Hackathon (SIH)* | GLA University, Mathura | 2024 |
 
 </div>
 
